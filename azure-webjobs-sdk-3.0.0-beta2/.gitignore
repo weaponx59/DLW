@@ -1,0 +1,15 @@
+bin
+obj
+csx
+.vs
+.DS_Store
+
+*.user
+*.suo
+*.cscfg
+*.Cache
+
+/packages
+/TestResults
+
+/tools/NuGet.exe
